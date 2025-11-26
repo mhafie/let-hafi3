@@ -34,9 +34,7 @@ I’m always looking for opportunities to enhance processes, optimize performanc
 
 ## 📫 How to Reach Me
 - **Email**: bashir101@gmail.com  
-- **LinkedIn**: [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)  
-- **Twitter**: [@YourTwitterHandle](https://twitter.com/YourTwitterHandle)  
-
+- **LinkedIn**: www.linkedin.com/in/muhammad-bashir-hafie-132643310
 ---
 
 ## 🌟 Projects
